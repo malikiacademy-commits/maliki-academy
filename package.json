@@ -1,0 +1,1 @@
+{"name":"maliki-college","version":"2.0.0","private":true,"type":"module","description":"Arabic academy with one shared SQLite database for web and Android","engines":{"node":">=22.16.0"},"scripts":{"start":"node --env-file-if-exists=.env server.mjs","test":"node --test test/*.test.mjs","backup":"node --env-file-if-exists=.env backup.mjs"}}

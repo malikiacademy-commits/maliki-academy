@@ -1,0 +1,9 @@
+node_modules/
+data/
+.env
+*.sqlite*
+*.p12
+*.jks
+*PASSWORD*
+android/build/
+backups/
